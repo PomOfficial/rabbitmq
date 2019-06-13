@@ -1,6 +1,6 @@
 {
   "name": "@pomofficial/rabbitmq",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "RabbitMQ client for the Pomegranate Framework",
   "main": "index.js",
   "scripts": {
